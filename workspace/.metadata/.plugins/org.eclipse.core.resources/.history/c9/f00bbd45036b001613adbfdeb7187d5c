@@ -1,0 +1,6 @@
+package tp2;
+import java.util.*;
+
+public class Union<T extends Comparable<T>> {
+	public RecursiveLinearLinkedList<T> union(ArrayList<RecursiveLinearLinkedList<T>> lists)
+}
